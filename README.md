@@ -31,5 +31,5 @@ you are talking because when you connect. Others get notified you connected.
 
 What are the features???
 ------------------------
-Micro:Radio V2.3 Comes with basic features such as. Telling other people your online or a SOS call
+Micro:Radio V3 Comes with basic features such as. Telling other people your online or a SOS call
 In the future we will introduce new radio channels and new responses.
